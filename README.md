@@ -4,30 +4,30 @@ This repo is created solely for logging purposes (we all know that GitHub green 
 
 ### Javascript
 - [x] 1. [Freecodecamp – Basic Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
-- [x] 2. [Freecodecamp - ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
-- [x] 3. [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
-- [x] 4. [Udemy – ES6 Javascript](https://coursehunter.net/course/udemy-javascript-es6-tutorial)
-- [x] 5. [Kent C Dodds – JS To Know For React](https://kentcdodds.com/blog/javascript-to-know-for-react/)
-- [x] (Optional) Advanced JS
-- [x] 6. [Egghead – JavaScript Promises in Depth](https://egghead.io/courses/javascript-promises-in-depth)
-- [x] 7. [Egghead – Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth)
-- [x] 8. [Egghead – Reduce Data with Javascript Array#reduce](https://egghead.io/courses/reduce-data-with-javascript-array-reduce)
-- [x] 9. [Egghead – Write simple asynchronous code with JavaScript generators](https://egghead.io/courses/write-simple-asynchronous-code-with-javascript-generators)
-- [x] 10. [Egghead – Asynchronous JavaScript with async/await](https://egghead.io/courses/asynchronous-javascript-with-async-await)
-- [x] 11. [Egghead – Understanding JavaScript's Prototypal Inheritance](https://egghead.io/courses/understanding-javascript-s-prototypal-inheritance)
+- [ ] 2. [Freecodecamp - ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+- [ ] 3. [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+- [ ] 4. [Udemy – ES6 Javascript](https://coursehunter.net/course/udemy-javascript-es6-tutorial)
+- [ ] 5. [Kent C Dodds – JS To Know For React](https://kentcdodds.com/blog/javascript-to-know-for-react/)
+- [ ] (Optional) Advanced JS
+- [ ] 6. [Egghead – JavaScript Promises in Depth](https://egghead.io/courses/javascript-promises-in-depth)
+- [ ] 7. [Egghead – Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth)
+- [ ] 8. [Egghead – Reduce Data with Javascript Array#reduce](https://egghead.io/courses/reduce-data-with-javascript-array-reduce)
+- [ ] 9. [Egghead – Write simple asynchronous code with JavaScript generators](https://egghead.io/courses/write-simple-asynchronous-code-with-javascript-generators)
+- [ ] 10. [Egghead – Asynchronous JavaScript with async/await](https://egghead.io/courses/asynchronous-javascript-with-async-await)
+- [ ] 11. [Egghead – Understanding JavaScript's Prototypal Inheritance](https://egghead.io/courses/understanding-javascript-s-prototypal-inheritance)
 
 ### Typescript
-- [x] 0. [Docs – Typescript for OOP progammers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html) or [Docs – Typescript for JS programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-- [x] 1. [Docs – Typescript Handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
-- [x] 2. [Egghead – Up and Running with TypeScript](https://egghead.io/courses/up-and-running-with-typescript)
-- [x] 3. [Egghead – Use Types Effectively in TypeScript](https://egghead.io/courses/use-types-effectively-in-typescript)
+- [ ] 0. [Docs – Typescript for OOP progammers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html) or [Docs – Typescript for JS programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [ ] 1. [Docs – Typescript Handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+- [ ] 2. [Egghead – Up and Running with TypeScript](https://egghead.io/courses/up-and-running-with-typescript)
+- [ ] 3. [Egghead – Use Types Effectively in TypeScript](https://egghead.io/courses/use-types-effectively-in-typescript)
 - [ ] (Optional) Advanced TS
-- [x] 4. [Egghead – Practical Advanced TypeScript](https://egghead.io/courses/practical-advanced-typescript)
+- [ ] 4. [Egghead – Practical Advanced TypeScript](https://egghead.io/courses/practical-advanced-typescript)
 - [ ] 5. [Github – Type challenges](https://github.com/type-challenges/type-challenges)
 
 ### React
-- [x] 1. [Docs – Main Concepts](https://reactjs.org/docs/hello-world.html)
-- [x] 2. [Docs – Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [ ] 1. [Docs – Main Concepts](https://reactjs.org/docs/hello-world.html)
+- [ ] 2. [Docs – Hooks](https://reactjs.org/docs/hooks-intro.html)
 
 ### Node
 - [ ] 1. [Docs – Node](https://nodejs.org/en/docs/)
@@ -62,12 +62,17 @@ This repo is created solely for logging purposes (we all know that GitHub green 
 * https://microservices.io/index.html
 
 #### Books
-- [x] 1. Solidbook, Khalil Stemmler
+- [ ] 1. Solidbook, Khalil Stemmler
 - [ ] 2. DDD Distilled, Vaughn Vernon; current progress – 14/137
 - [ ] 3. Clean Architecture, Robert Martin
 - [ ] 4. TDD by example, Kent Beck (take testingjavascript.com at the same time)
 - [ ] 5. XP, Kent Beck
 - [ ] 6. DDIA, Martin Kleppmann
 - [ ] 7. DDD blue book, Chris Evans
+- [ ] 8. Readings in Database Systems by Peter Bailis, Joe Hellerstein and Michael Stonebraker.
+- [ ] 9. Crafting Interpreters by Bob Nystrom
+- [ ] 10. Compilers: Principles, Techniques & Tools by Alfred Aho
+- [ ] 11. Advanced Bash Scripting Guide, 2004
+- [ ] 12. Building Mobile Apps at Scale. 39 Engineering Chanllenges by Gergely Orosz
 
 
